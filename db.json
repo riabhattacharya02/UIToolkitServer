@@ -3,30 +3,45 @@
 		"primaryTitle": "Christmas Sounds",
 		"secondaryTitle": "Christmas Chill",
 		"tertiaryTitle": "Happy Christmas Harmonies with Laufey",
-		"imageUrl": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0b5xjl9.jpg"
+		"imageUrl": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0b5xjl9.jpg",
+		"progressPerccentage": 0.25,
+		"remainingTimeLabel": "123 mins left",
+		"durationLabel": "120 mins | 12 Dec"
 	},
 	{
 		"primaryTitle": "Christmas Sounds",
 		"secondaryTitle": null,
 		"tertiaryTitle": null,
-		"imageUrl": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0b5xjl9.jpg"
+		"imageUrl": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0b5xjl9.jpg",
+		"progressPerccentage": 0.25,
+		"remainingTimeLabel": "123 mins left",
+		"durationLabel": "120 mins | 12 Dec"
 	},
 	{
 		"primaryTitle": "Christmas Sounds",
 		"secondaryTitle": "Christmas Chill",
 		"tertiaryTitle": null,
-		"imageUrl": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0b5xjl9.jpg"
+		"imageUrl": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0b5xjl9.jpg",
+		"progressPerccentage": 0.25,
+		"remainingTimeLabel": "123 mins left",
+		"durationLabel": "120 mins | 12 Dec"
 	},
 	{
 		"primaryTitle": "Christmas Sounds",
 		"secondaryTitle": null,
 		"tertiaryTitle": "Happy Christmas Harmonies with Laufey",
-		"imageUrl": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0b5xjl9.jpg"
+		"imageUrl": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0b5xjl9.jpg",
+		"progressPerccentage": 0.25,
+		"remainingTimeLabel": "123 mins left",
+		"durationLabel": "120 mins | 12 Dec"
 	},
 	{
 		"primaryTitle": "Christmas Sounds is covered with this collection of Classic Christams favorites that you will absolutely love",
 		"secondaryTitle": "Christmas Chill is covered with this collection of Classic Christams favorites that you will absolutely love",
 		"tertiaryTitle": "Happy Christmas Harmonies with Laufey is covered with this collection of Classic Christams favorites that you will absolutely love",
-		"imageUrl": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0b5xjl9.jpg"
+		"imageUrl": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0b5xjl9.jpg",
+		"progressPerccentage": 0.25,
+		"remainingTimeLabel": "123 mins left",
+		"durationLabel": "120 mins | 12 Dec"
 	}]
 }
